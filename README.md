@@ -1,2 +1,2 @@
-# student-walefare-demo
-This is my first git repository.
+# student-welfare-demo
+This is my first Git repository.
